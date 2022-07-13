@@ -6,10 +6,11 @@
   <title>QuoccaBlog</title>
   <link>https://blog.quoccabank.com</link>
   <description>The blogging home of QuoccaBank</description>
+  <generator>https://wordpress.org/?v=6.0</generator>
   <item>
-    <title>RSS Tutorial</title>
-    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
-    <description>New RSS tutorial on W3Schools</description>
+    <title>&example</title>
+    <link>https://blog.quoccabank.com/?p=42</link>
+    <description>flag?</description>
   </item>
 </channel>
 
